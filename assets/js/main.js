@@ -33,7 +33,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 /*==================== TEXT BERJALAN ====================*/
 // // text jalan
 var typed= new Typed(".textt",{
-    strings:["Fullstack Developer","Backend Developer", "Student College"],
+    strings:["Mobile Developer","Backend Developer", "Web Developer"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
